@@ -1,45 +1,41 @@
-# TAXBOT: Indian Income Tax Assistant 🧮
-
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.28.0-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+# Income Tax Assistant 
 
 **Live Demo**: [Deploy on Streamlit Cloud](https://share.streamlit.io/)
 
-## 🎯 Overview
+## Overview
 
-TaxBot 2025 is a comprehensive, AI-powered Indian Income Tax Assistant that simplifies tax calculation and provides intelligent tax planning insights. Built with Streamlit, it offers an intuitive interface for calculating tax liabilities under the New Tax Regime for FY 2024-25 and FY 2025-26.
+This is a comprehensive, AI-powered Income Tax Assistant that simplifies tax calculation and provides intelligent tax planning insights. Built with Streamlit, it offers an intuitive interface for calculating tax liabilities under the New Tax Regime for FY 2024-25 and FY 2025-26.
 
-## ✨ Key Features
+## Key Features
 
-### 📊 Tax Calculation Engine
+### Tax Calculation Engine
 - **Accurate Tax Computation**: Implements New Tax Regime rules for FY 2024-25 and FY 2025-26
 - **Multiple Income Types**: Supports Salaried, Freelancer, Business, Rental, and Investor income
 - **Automated Deductions**: Standard deduction, HRA exemption, and Section 87A rebate
 - **Capital Gains**: STCG and LTCG tax calculation with exemptions
 
-### 🔢 Indian Number Formatting
+### Indian Number Formatting
 - **Lakhs & Crores Display**: Numbers formatted as Rs. 12,34,567 (Indian system)
 - **Proper Comma Placement**: First comma after 3 digits, then every 2 digits
 - **Currency Conversion**: Automatic conversion to Indian currency format
 
-### 💡 Smart Tax Tips
+### Smart Tax Tips
 - **Context-Aware Advice**: Personalized tips based on your income and tax situation
 - **Tax-Saving Recommendations**: Investment opportunities and deduction strategies
 - **Compliance Alerts**: Advance tax requirements and filing deadlines
 
-### 📈 Visualizations & Reports
+### Visualizations & Reports
 - **Interactive Charts**: Tax breakdown pie charts and income composition
 - **Tax Slab Utilization**: Visual representation of tax slab usage
 - **PDF Reports**: Downloadable tax summary with tips and calculations
 - **Professional Formatting**: Clean, well-structured output
 
-### 🎯 User-Friendly Interface
+### User-Friendly Interface
 - **Multi-Tab Navigation**: Organized workflow with Profile, Income, Tax, Reports, and Guidance tabs
 - **Responsive Design**: Works on desktop and mobile devices
 - **Real-time Calculations**: Instant tax computation with live updates
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -254,3 +250,4 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ for Indian Taxpayers** | TAXBOT © 2025
+
