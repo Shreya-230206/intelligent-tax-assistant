@@ -66,9 +66,7 @@ streamlit run app.py
 ```
 
 
----
 
-**Made with ❤️ for Indian Taxpayers** | TAXBOT © 2025
 
 
 
