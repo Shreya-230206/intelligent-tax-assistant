@@ -1,7 +1,5 @@
 # Income Tax Assistant 
 
-**Live Demo**: [Deploy on Streamlit Cloud](https://share.streamlit.io/)
-
 ## Overview
 
 This is a comprehensive, AI-powered Income Tax Assistant that simplifies tax calculation and provides intelligent tax planning insights. Built with Streamlit, it offers an intuitive interface for calculating tax liabilities under the New Tax Regime for FY 2024-25 and FY 2025-26.
@@ -74,5 +72,6 @@ streamlit run app.py
 ---
 
 **Made with ❤️ for Indian Taxpayers** | TAXBOT © 2025
+
 
 
