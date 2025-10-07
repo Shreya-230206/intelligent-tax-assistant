@@ -42,7 +42,7 @@ This is a comprehensive, AI-powered Income Tax Assistant that simplifies tax cal
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sane219/TAXBOT.git
+git clone https://github.com/Shreya-230206/intelligent-tax-assistant/tree/main
 cd TAXBOT
 ```
 
@@ -50,9 +50,6 @@ cd TAXBOT
 ```powershell
 # Create virtual environment
 python -m venv taxbot_env
-
-# Activate virtual environment (PowerShell)
-.\taxbot_env\Scripts\Activate.ps1
 
 # Or for Command Prompt
 .\taxbot_env\Scripts\activate.bat
@@ -72,6 +69,7 @@ streamlit run app.py
 ---
 
 **Made with ❤️ for Indian Taxpayers** | TAXBOT © 2025
+
 
 
 
