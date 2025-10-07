@@ -1,5 +1,5 @@
 def get_chat_response(query: str):
-    # Stub: In prod, call LangChain/OpenAI
+    requests.post('http://localhost:8001/chat', json={'query': query})
     if "deduction" in query.lower() or "savings" in query.lower():
         return "Consider 80C investments (up to ₹1.5L) for old regime savings."
     elif "regime" in query.lower():
